@@ -1,0 +1,33 @@
+html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family:'Courier New', Courier, monospace;
+}
+.container {
+    width: 380px;
+    border-radius: 2px black;
+}
+#inputField {
+    width: 290px;
+    height: 45px;
+    background-color: rgb(24, 228, 68);
+    border-width: 0;
+    border: 3px solid rgb(31, 14, 14);
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+#addToDo {
+    height: 50px;
+    width: 70px;
+    background-color: rgb(100, 241, 194);
+    border: 3px solid black;
+    vertical-align: middle;
+    font-size: 25px;
+}
+.to-dos {
+    font-size: 30px;
+    margin-top: 35px;
+    background-color: rgb(170, 44, 182);
+    border: 2px solid black;
+}
